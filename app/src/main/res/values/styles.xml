@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Button_Style">
+        <item name = "android:text">@string/push_me</item>
+        <item name = "android:textColor">#FF0000</item>
+        <item name = "android:textSize">40dp</item>
+        <item name = "android:textStyle">italic</item>
+        <item name = "android:backgroundTint">#4CAF50</item>
+    </style>
+</resources>
